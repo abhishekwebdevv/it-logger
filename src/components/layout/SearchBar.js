@@ -8,7 +8,7 @@ export default function SearchBar() {
           <div className="input-field">
             <input id="search" type="search" />
             <label htmlFor="search" className="label-icon">
-              <i className='="material-icons'>search</i>
+              <i className="material-icons">search</i>
             </label>
             <i className="material-icons">close</i>
           </div>
