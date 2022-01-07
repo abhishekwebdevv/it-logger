@@ -22,11 +22,11 @@ const AddLogModal = ({ addLog }) => {
       });
 
       M.toast({ html: `Log added by ${tech}` });
-    }
 
-    setMessage('');
-    setTech('');
-    setAttention(false);
+      setMessage('');
+      setTech('');
+      setAttention(false);
+    }
   };
 
   return (

@@ -1,5 +1,13 @@
 {
-  "logs": [],
+  "logs": [
+    {
+      "message": "Changed Hard drive in workstation 002",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2022-01-07T15:10:41.259Z",
+      "id": 1
+    }
+  ],
   "techs": [
     {
       "id": 1,
