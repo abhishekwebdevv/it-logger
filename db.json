@@ -1,11 +1,25 @@
 {
   "logs": [
     {
-      "message": "Changed Hard drive in workstation 002",
+      "id": 1,
+      "message": "Changed RAM on workstation 003",
       "attention": false,
       "tech": "John Doe",
-      "date": "2022-01-07T15:10:41.259Z",
-      "id": 1
+      "date": "2022-01-08T07:53:27.537Z"
+    },
+    {
+      "message": "Data Lost on Workstation 005",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2022-01-08T07:00:39.103Z",
+      "id": 3
+    },
+    {
+      "message": "Updated workstation 004",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2022-01-08T07:01:05.399Z",
+      "id": 4
     }
   ],
   "techs": [

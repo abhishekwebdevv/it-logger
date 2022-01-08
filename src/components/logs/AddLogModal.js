@@ -39,7 +39,7 @@ const AddLogModal = ({ addLog }) => {
             <input
               type="text"
               name="message"
-              values={message}
+              value={message}
               onChange={(e) => setMessage(e.target.value)}
             />
             <label htmlFor="message" className="active">
