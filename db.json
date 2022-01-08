@@ -20,13 +20,6 @@
       "tech": "Sara Wilson",
       "date": "2022-01-08T07:01:05.399Z",
       "id": 4
-    },
-    {
-      "message": "Workstation 007 Down",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2022-01-08T20:26:04.441Z",
-      "id": 5
     }
   ],
   "techs": [
@@ -41,9 +34,9 @@
       "lastName": "Smith"
     },
     {
-      "id": 3,
       "firstName": "Sara",
-      "lastName": "Wilson"
+      "lastName": "Wilson",
+      "id": 3
     }
   ]
 }
