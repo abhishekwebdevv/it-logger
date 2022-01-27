@@ -1,3 +1,6 @@
+# Run Project
+Clone repository and run "npm install" and then run "npm run dev" to start the local server.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
